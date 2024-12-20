@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My_Android_Dev_HW_15</string>
+    <string name="input_word">Enter a word</string>
+    <string name="add">Add a word</string>
+    <string name="clear">Clear DB</string>
+    <string name="word_list">Words</string>
+    <string name="matches_count">Matches</string>
+    <string name="title_app">Dictionary</string>
+
+
+</resources>
